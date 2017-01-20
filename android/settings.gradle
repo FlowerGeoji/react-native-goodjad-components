@@ -1,0 +1,3 @@
+rootProject.name = 'GoodjadComponents'
+
+include ':app'
